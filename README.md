@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @S-dev-coder
-- 👀 I’m interested in coding & development...
-- 🌱 I have skills like C, C++, DataStructures&Algorithms ...
-- 💞️ I’m looking to learn and Grow with others.
-- 📫 Lets coonect via- sk7137389@gmail.com ...
+- 👋 Hi, I’m @S-dev-coder(Sakshi).
+-  I’m an Coding And Open-Source enthusiast , a freshmen pursuing my Bachelors in Computer Science & Engineering.
+👨‍💻 I am passionate about DataStructures&Algoritms ,Android Dev,Web Dev, DevOps & I enjoy learning new things.
 
 <!---
 S-dev-coder/S-dev-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
