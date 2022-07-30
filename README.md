@@ -1,6 +1,6 @@
 # ![S-dev-coder/S-dev-coder header](https://github.com/S-dev-coder/S-dev-coder/blob/main/HEADER.png)
 
-<h1 align="center">Hi 👋, I'm Sakshi Kumari</h1>
+<h1 align="center">Hi 👋, This is Sakshi Kumari</h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-dev-coder&label=Profile%20views&color=0e75b6&style=flat" alt="s-dev-coder" /> </p>
@@ -9,15 +9,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 👨‍💻 You can checkout my portfolio at [https://s-dev-coder.github.io/-__Bonjour-__/sk/](https://s-dev-coder.github.io/-__Bonjour-__/sk/)
+
+
+- 👨‍💻You can checkout my profile at [https://s-dev-coder.github.io/-__Bonjour-__/sk/](https://s-dev-coder.github.io/-__Bonjour-__/sk/)
 
 - 📫 How to reach me **sk7137389@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny XD.**
+- ⚡ Fun fact **I Think I am Funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sakshi-kumari-she-her-248b70204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshi-kumari-she-her-248b70204/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__er.sakshi__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__er.sakshi__/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/abhask865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhask865" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/sdev_coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sdev_coder/" height="30" width="40" /></a>
 </p>
 
@@ -26,9 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-dev-coder&show_icons=true&locale=en&layout=compact" alt="s-dev-coder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-dev-coder&show_icons=true&locale=en" alt="s-dev-coder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-dev-coder&" alt="s-dev-coder" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=s-dev-coder&show_icons=true&locale=en" alt="s-dev-coder" /></p>
 
 
 
