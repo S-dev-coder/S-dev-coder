@@ -30,7 +30,9 @@
 
 
 ## &#x1f4c8; GitHub Stats
+
 ![](https://komarev.com/ghpvc/?username=S-dev-coder&color=dc143c)
+
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-dev-coder&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="S-dev-coder Github Stats">
@@ -51,8 +53,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-dev-coder&show_icons=true&locale=en&layout=compact" alt="s-dev-coder" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=s-dev-coder&show_icons=true&locale=en" alt="s-dev-coder" /></p>
 
 
 
