@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-dev-coder&label=Profile%20views&color=0e75b6&style=flat" alt="s-dev-coder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-dev-coder" alt="s-dev-coder" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-dev-coder" alt="s-dev-coder" /></a> </p>
 
-- 🌱 I’m currently learning **React,Dynamic Programming with c++ and many more technical stuff.**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 👨‍💻 All of my projects are available at [https://s-dev-coder.github.io/-__Bonjour-__/sk/](https://s-dev-coder.github.io/-__Bonjour-__/sk/)
-
-- 💬 Ask me about **HTML,CSS,JS,C and C++**
+- 👨‍💻 You can checkout my portfolio at [https://s-dev-coder.github.io/-__Bonjour-__/sk/](https://s-dev-coder.github.io/-__Bonjour-__/sk/)
 
 - 📫 How to reach me **sk7137389@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny.**
+- ⚡ Fun fact **I Think I am Funny XD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
