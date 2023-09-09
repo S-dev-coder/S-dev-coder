@@ -11,7 +11,7 @@
 
 
 
-- 👨‍💻You can checkout my profile at [https://s-dev-coder.github.io/-__Bonjour-__/sk/](https://s-dev-coder.github.io/-__Bonjour-__/sk/)
+- 👨‍💻You can checkout my profile at [https://sakshi-portfolio-six.vercel.app/](https://sakshi-portfolio-six.vercel.app/)
 
 - 📫 How to reach me **sk7137389@gmail.com**
 
